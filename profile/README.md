@@ -1,11 +1,8 @@
 <p align="center">
   <picture>
-    <!-- Gdy użytkownik ma włączony DARK MODE -->
-    <source media="(prefers-color-scheme: dark)" srcset="images/imei-info-logo-dark.png">
-    <!-- Gdy użytkownik ma włączony LIGHT MODE -->
-    <source media="(prefers-color-scheme: light)" srcset="images/imei-info-logo-light.svg">
-    <!-- Awaryjny obrazek domyślny -->
-    <img alt="IMEI.info - Enterprise IMEI CHECK API Solutions" src="images/imei-info-logo-light.svg" width="350">
+    <source media="(prefers-color-scheme: dark)" srcset="images/imei-info-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/imei-info-banner-light.svg">
+    <img alt="IMEI.info - Enterprise IMEI CHECK API Solutions" src="images/imei-info-banner-light.svg" style="max-width: 100%; height: auto;">
   </picture>
 </p>
 
