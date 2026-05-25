@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
     <!-- Gdy użytkownik ma włączony DARK MODE -->
-    <source media="(prefers-color-scheme: dark)" srcset="imei-info-logo-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imei-info/.github/master/profile/imei-info-logo-dark.svg">
     <!-- Gdy użytkownik ma włączony LIGHT MODE -->
-    <source media="(prefers-color-scheme: light)" srcset="imei-info-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imei-info/.github/master/profile/imei-info-logo-light.svg">
     <!-- Awaryjny obrazek domyślny -->
-    <img alt="IMEI.info - Enterprise IMEI CHECK API Solutions" src="imei-info-logo-light.svg" width="350">
+    <img alt="IMEI.info - Enterprise IMEI CHECK API Solutions" src="https://raw.githubusercontent.com/imei-info/.github/master/profile/imei-info-logo-light.svg" width="350">
   </picture>
 </p>
 
