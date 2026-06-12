@@ -30,3 +30,10 @@ Test the official IMEI.info API directly in Postman.
 [![Postman Collection](https://img.shields.io/badge/Postman-IMEI.info%20API-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/imei-info-5385848/imei-info-public-api/collection/kcux4uc/imei-info-api-v5)
 
 Public workspace: https://www.postman.com/imei-info-5385848
+
+
+## Developer Tools
+
+- API documentation: https://www.imei.info/api/imei/docs/
+- Postman workspace: https://www.postman.com/imei-info-5385848
+- Postman collection: https://www.postman.com/imei-info-5385848/imei-info-public-api/collection/kcux4uc/imei-info-api-v5
