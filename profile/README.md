@@ -22,3 +22,11 @@ We deliver scalable, high-performance **IMEI CHECK API** integrations tailored s
 <p align="center">
   <sub>Looking for custom B2B tiers, bulk volume pricing, or detailed company insights? Visit our official <b><a href="https://www.imei.info/about/">IMEI.info About Page</a></b>.</sub>
 </p>
+
+## Postman Collection
+
+Test the official IMEI.info API directly in Postman.
+
+[![Postman Collection](https://img.shields.io/badge/Postman-IMEI.info%20API-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/imei-info-5385848/imei-info-public-api/collection/kcux4uc/imei-info-api-v5)
+
+Public workspace: https://www.postman.com/imei-info-5385848
